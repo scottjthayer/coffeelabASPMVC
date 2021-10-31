@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+}
+<h3>Please enter your information in the following boxes.</h3>
+<form method="post" asp-action="Summary">
+    <p>First name:</p><input type="text" name="firstName" />
+    <p>Last name:</p><input type="text" name="lastName" />
+    <p>Email:</p><input type="email" name="email" />
+    <p>Password:</p><input type="password" name="password" />
+    <p>Please select your personality type:</p>
+    
+    <input type="radio" id="cool" name="personality" value="cool" />
+    <label for="cool">Cool</label><br />
+    <input type="radio" id="notCool" name="personality" value="not cool" />
+    <label for="notCool">Not cool</label><br />
+    <input type="submit" />
+</form>
+
+

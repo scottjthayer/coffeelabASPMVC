@@ -1,0 +1,40 @@
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.AssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.MvcApplicationPartsAssemblyInfo.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.RazorAssemblyInfo.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.RazorAssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\staticwebassets\Coffee Shop Registration LAB.StaticWebAssets.Manifest.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\staticwebassets\Coffee Shop Registration LAB.StaticWebAssets.xml
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\scopedcss\bundle\Coffee Shop Registration LAB.styles.css
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.TagHelpers.input.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.TagHelpers.output.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.RazorCoreGenerate.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Home\Summary.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.RazorTargetAssemblyInfo.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.RazorTargetAssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.exe
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.deps.json
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.runtimeconfig.json
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.runtimeconfig.dev.json
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.Views.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\bin\Debug\netcoreapp3.1\Coffee Shop Registration LAB.Views.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.Views.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.genruntimeconfig.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Coffee Shop Registration LAB\Coffee Shop Registration LAB\obj\Debug\netcoreapp3.1\Coffee Shop Registration LAB.csproj.CopyComplete
