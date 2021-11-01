@@ -4,16 +4,20 @@
 @{
     ViewBag.Title = "Registration";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    
+
 }
 <h3>Please enter your information in the following boxes.</h3>
 <form method="post" asp-action="Summary">
-    <p>First name:</p><input type="text" name="firstName" />
-    <p>Last name:</p><input type="text" name="lastName" />
-    <p>Email:</p><input type="email" name="email" />
-    <p>Password:</p><input type="password" name="password" />
+    <label for="firstName">First name: </label>
+    <input type="text" name="firstName" id="firstName" /><br />
+    <label for="lastName">Last name: </label>
+    <input type="text" name="lastName" id="lastName"/><br />
+    <label for="email">Email: </label>
+    <input type="email" name="email" id="email"/><br />
+    <label for="password">Password: </label>
+    <input type="password" name="password" id="password" />
     <p>Please select your personality type:</p>
-    
+
     <input type="radio" id="cool" name="personality" value="cool" />
     <label for="cool">Cool</label><br />
     <input type="radio" id="notCool" name="personality" value="not cool" />
